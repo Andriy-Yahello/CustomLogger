@@ -1,0 +1,17 @@
+E:\Courses\.Net ep\Logger\bin\Debug\LoggingStatus.Config
+E:\Courses\.Net ep\Logger\bin\Debug\Logger.dll
+E:\Courses\.Net ep\Logger\bin\Debug\Logger.pdb
+E:\Courses\.Net ep\Logger\bin\Debug\Newtonsoft.Json.dll
+E:\Courses\.Net ep\Logger\bin\Debug\System.Xml.Linq.dll
+E:\Courses\.Net ep\Logger\bin\Debug\Newtonsoft.Json.xml
+E:\Courses\.Net ep\Logger\bin\Debug\System.Xml.Linq.xml
+E:\Courses\.Net ep\Logger\obj\Debug\Logger.dll
+E:\Courses\.Net ep\Logger\obj\Debug\Logger.pdb
+E:\Courses\.Net ep\FınalLogger\Logger\bin\Debug\Logger.dll
+E:\Courses\.Net ep\FınalLogger\Logger\bin\Debug\Logger.pdb
+E:\Courses\.Net ep\FınalLogger\Logger\bin\Debug\Newtonsoft.Json.dll
+E:\Courses\.Net ep\FınalLogger\Logger\bin\Debug\System.Xml.Linq.dll
+E:\Courses\.Net ep\FınalLogger\Logger\bin\Debug\Newtonsoft.Json.xml
+E:\Courses\.Net ep\FınalLogger\Logger\bin\Debug\System.Xml.Linq.xml
+E:\Courses\.Net ep\FınalLogger\Logger\obj\Debug\Logger.dll
+E:\Courses\.Net ep\FınalLogger\Logger\obj\Debug\Logger.pdb
